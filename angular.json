@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-course-project"
+    }
+  },
+  "defaultProject": "my-course-project",
+  "cli": {
+    "analytics": "39194910-84fc-4ff3-bced-247c212eeb39"
+  }
 }
